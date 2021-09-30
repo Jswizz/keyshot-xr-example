@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+"http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDisplayName</key>
+	<string>Drill Config.162.%d</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.luxion.widget.Drill-Configd</string>
+	<key>CFBundleName</key>
+	<string>Drill-Configd</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>MainHTML</key>
+	<string>keyshot-configurator.html</string>
+	<key>Height</key>
+	<integer>783</integer>
+	<key>Width</key>
+	<integer>1280</integer>
+</dict>
+</plist>
